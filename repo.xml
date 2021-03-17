@@ -1,13 +1,13 @@
 <repo>
     <footerlinks>
         <link>
-            <name>Follow me on Twitter</name>
-            <url>https://twitter.com/truesyns</url>
+            <name>Follow me on YouTube</name>
+            <url>https://www.youtube.com/channel/UC2zgHOhmWFnI9Z6NqZ0GAQw</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
-            <name>I want this depiction template</name>
-            <url>https://github.com/syns/repo.me</url>
+            <name>Hello! I'm Mihnea, a 15 y.o. developer. This is my repo. Enjoy!</name>
+            <url>https://github.com/MihneaDev/repo</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
     </footerlinks>
